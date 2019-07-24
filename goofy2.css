@@ -1,0 +1,26 @@
+body{
+	background: url(goofyBG.jpeg);
+	background-size: cover;
+}
+
+p{ 
+   font-family: 'WaltographRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+li{list-style: none;
+	display: inline-block;
+}
+
+h1{
+	font-family: 'Oxygen', sans-serif;
+}
+
+h3{
+	font-family: 'Karla'
+}
+
+h2{
+	font-family: 'Karla'
+}
